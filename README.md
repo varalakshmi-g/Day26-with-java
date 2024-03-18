@@ -2,7 +2,6 @@
 
 Hey all Today I started learning with OOPS in java. Here is what I learned. Lets goo....
 
-
 Firstly full form of OOPS is Object Oriented Programming System. It can be defined as, It is fundamental paradigm that provides a structured approach to designing and organizing code. 
 
 Key concepts of OOPs are 1. class 2. Object 3. Abstraction 4. Encapsulation 5. Inheritance 6. Polymorphism.
